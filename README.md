@@ -1,3 +1,3 @@
-# Estudo_branches_dio_ifood
+# Estudo_branches_dio_ifood - repo remoto
 
-Descrição inserida no repositório remoto antes do clone. 
+Descrição inserida no repositório remoto depois do clone. 
